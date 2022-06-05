@@ -1,4 +1,15 @@
-# mwd
-WIP => My World's CSS Framework.
+![Logo](./mw-logo.png)
 
-my own CSS framework for a future website so i don't need to use any other framework such as bootstrap or ant design.
+<center>
+    <h1>MWD</h1>
+    <p>MyWorld's official CSS framework.</p>
+</center>
+
+<hr>
+
+Current version: <strong>v1.0</strong>
+
+## Built with
+
+- Gulp
+- SASS

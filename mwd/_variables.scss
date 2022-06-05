@@ -1,0 +1,60 @@
+// Theme Colors
+$primary: #011625;
+$secondary: #37BFB1;
+$error: #d32752;
+$info: #F2D13E;
+$link: #A53004;
+$success: #42ba96;
+$visited-link: #F78960;
+
+// Colors Palette
+$colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "error": $error,
+    "info": $info,
+    "success": $success,
+    "blue": #1919e6,
+    "red": #e61919,
+    "yellow": #e6e619,
+    "green": #19e635,
+    "orange": #ffa600,
+    "purple": #9900ff,
+    "gray": #808080,
+    "black": black,
+    "white": white
+);
+
+// Spacing
+$base-padding: 0.75em;
+$base-margin: 0.75em;
+
+$p-sm: $base-padding * 0.75;
+$p-md: $base-padding * 1.25;
+$p-lg: $base-padding * 1.5;
+$p-xl: $base-padding * 2;
+$p-xxl: $base-padding * 3;
+
+$m-sm: $base-margin * 0.75;
+$m-md: $base-margin * 1;
+$m-lg: $base-margin * 1.5;
+$m-xl: $base-margin * 2;
+$m-xxl: $base-margin * 3;
+
+// Borders
+$base-border-thickness: 1px;
+$base-border-radius: .75em;
+
+// Box Shadow
+$base-box-shadow: 2px 3px 5px rgba(0, 0, 0, 0.5);
+
+// Font Sizes
+$base-font-size: 1rem;
+$txt-sm: $base-font-size * 0.75;
+$txt-md: $base-font-size * 1;
+$txt-lg: $base-font-size * 1.5;
+$txt-xl: $base-font-size * 2;
+$txt-xxl: $base-font-size * 3;
+
+// Display Flex Gap
+$base-gap: .25em;
