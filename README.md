@@ -1,4 +1,4 @@
-![Logo](./mw-logo.png)
+<center>![Logo](./mw-logo.png)</center>
 
 <center>
     <h1>MWD</h1>
