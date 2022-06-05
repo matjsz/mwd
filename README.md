@@ -1,13 +1,11 @@
-<center>![Logo](./mw-logo.png)</center>
-
-<center>
+<div align="center">
+    <img src="./mw-logo.png"/>
     <h1>MWD</h1>
     <p>MyWorld's official CSS framework.</p>
-</center>
+    Current version: <strong>v1.0</strong>
+</div>
 
 <hr>
-
-Current version: <strong>v1.0</strong>
 
 ## Built with
 
